@@ -17,13 +17,27 @@ body {
 a {
   color: white;
 }
+
 .header {
   text-align: center;
 }
+
 .message {
   text-align: center;
   background-color: aliceblue;
   width: 300px;
   border: 1px solid beige;
   border-radius: 16px;
+}
+
+main {
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  background-color: #00b7ff;
+  width: 100%;
+  padding-top: 200px;
+  overflow-y: auto;
 }
