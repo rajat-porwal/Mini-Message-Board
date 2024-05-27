@@ -41,3 +41,22 @@ main {
   padding-top: 200px;
   overflow-y: auto;
 }
+
+.form form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 16px;
+  width: 400px;
+  height: 200px;
+  font-size: 20px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #00b7ff;
+  font-size: 16px;
+}
