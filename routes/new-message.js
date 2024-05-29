@@ -1,11 +1,12 @@
 const express = require("express");
 const router = express.Router();
 const { messages } = require("./index.js");
-
+/* GET users listing. */
 router.get("/", function (req, res, next) {
   res.render("new-message", { title: "New Message", sent: false, error: null });
 });
 
+/* Post message request */
 
 router.post("/new", (req, res, next) => {
   const message = {
