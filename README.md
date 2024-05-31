@@ -22,6 +22,6 @@ A web app where everyone can post new messages and see messages written by other
 
 ## Author
 
-[ArtisDev]((https://github.com/rajat-porwal)) - [LinkedIn](https://www.linkedin.com/in/rajatporwal/) - rajatporwal@protonmail.com
+[Rajat Porwal]((https://github.com/rajat-porwal)) - [LinkedIn](https://www.linkedin.com/in/rajatporwal/) - rajatporwal@protonmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
